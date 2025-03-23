@@ -1,1 +1,1 @@
-# Bar-Code-Scan-App
+Đinh Đức Anh-22810310421
